@@ -1,0 +1,12 @@
+*.*
+*/build/*
+*settings.gradle
+*/gradlew
+!.gitignore
+!*.md
+!*.java
+!*.txt
+!*.json
+!*.jpg
+!*.uml
+!*build.gradle
